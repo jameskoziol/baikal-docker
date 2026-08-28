@@ -1,3 +1,4 @@
+# Fork of aalmenar/baikal-docker — runs on jameskoziol/baikal-docker; images publish to ghcr.io/jameskoziol/baikal.
 name: PR review
 
 on:
